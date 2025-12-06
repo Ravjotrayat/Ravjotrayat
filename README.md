@@ -1,6 +1,6 @@
 # About Me
 I'm **Ravjot Singh Rayat**, a **full stack** and **backend developer** with a strong foundation in **Java**, **Spring frameworks**, and **Python**.  
-I recently completed my **B.Tech in Computer Science and Engineering** from **GIET University** in 2024.  
+I recently completed my **B.Tech in Computer Science Engineering** from **GIET University** in 2024.  
 My interests include **machine learning**, **cloud technologies** like **AWS**, and building **real-world solutions**.  
 I also enjoy **helping others**, **teaching**, and **playing basketball**.
 
